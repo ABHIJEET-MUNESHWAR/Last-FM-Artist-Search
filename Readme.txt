@@ -24,4 +24,4 @@ If not, see
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-This is website to get details about an artist. It uses Last FM APIs(http://www.last.fm/api). It is developed using ExpressJS (http://expressjs.com/), Parse(https://parse.com/) and Twitter Bootstrap framework 3.2.0.
+This is website to get details about an artist. It uses Last FM APIs (http://www.last.fm/api). It is developed using ExpressJS (http://expressjs.com/), Parse (https://parse.com/) and Twitter Bootstrap framework 3.2.0.
