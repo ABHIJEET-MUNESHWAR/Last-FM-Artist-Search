@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "LastFMArtistDetails": {
+            "applicationId": "pIExtoasaOfJ7gcdolMP0ZOPvtyUnIEujWSB5lr0", 
+            "masterKey": "3tTL6YfjpaE0ualCrzWmgegxj4dC3NGybXeiWCHa"
+        }, 
+        "_default": {
+            "link": "LastFMArtistDetails"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
